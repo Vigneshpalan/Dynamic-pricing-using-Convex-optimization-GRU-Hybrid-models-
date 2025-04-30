@@ -15,7 +15,7 @@ It integrates:
 - Train and evaluate models using **RMSE** and **R² Score**
 - Predict on **simulated data**
 - Apply **optimization** to recommend future prices
-- Visualize predictions, revenue, and optimal pricing via **Gradio UI**
+- Visualize predictions, revenue, and optimal pricing via **Streamlit**
 - Practical use case of **price elasticity and revenue modeling**
 
 ---

@@ -22,9 +22,9 @@ It integrates:
 
 ## 🖼️ Screenshots
 
-| Forecasting Dashboard | Model Predictions | GRU Architecture |
+| Forecasting Dashboard | Final Result  | Model Predictions|
 |------------------------|-------------------|------------------|
-| ![Dashboard](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-21%20184248.png) | ![Predictions](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085230.png) | ![GRU](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085127.png) |
+| ![Dashboard](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-21%20184248.png) | ![Final](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085230.png) | ![Predictions](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085127.png) |
 
 
 

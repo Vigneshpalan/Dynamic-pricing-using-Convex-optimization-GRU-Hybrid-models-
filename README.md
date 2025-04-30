@@ -1,26 +1,29 @@
-🧠 Dynamic Pricing using Convex Optimization, GRU & Hybrid Models
-Welcome to the repository for Dynamic Pricing using Convex Optimization and Deep Learning. This project explores advanced machine learning and deep learning techniques—including Random Forest, GRU, and a Hybrid Transformer-GRU model—to forecast sales and recommend optimal prices. The goal is to dynamically adjust pricing strategies to maximize revenue and adapt to changing demand conditions.
+# 🧠 Dynamic Pricing using Convex Optimization, GRU & Hybrid Models
 
-<p align="center"> <img src="https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-21%20184248.png" width="600"/> </p>
-🚀 Key Features
-Sales Forecasting using:
+This project demonstrates how advanced machine learning and deep learning techniques can be applied to **dynamic pricing** in retail or e-commerce. The goal is to **forecast demand** and **recommend optimal prices** that maximize revenue.
 
-Random Forest
+It integrates:
+- 📊 **Random Forest** for baseline regression
+- 🔁 **GRU (Gated Recurrent Unit)** for time series forecasting
+- ⚡ **Hybrid Transformer-GRU model** for long-term dependencies
+- 📉 **Convex optimization** to find the best price based on predicted demand
 
-GRU (Gated Recurrent Unit)
+---
 
-Transformer-GRU Hybrid Model
+## 🚀 Key Features
 
-Convex Optimization to recommend revenue-maximizing prices
+- Train and evaluate models using **RMSE** and **R² Score**
+- Predict on **simulated data**
+- Apply **optimization** to recommend future prices
+- Visualize predictions, revenue, and optimal pricing via **Gradio UI**
+- Practical use case of **price elasticity and revenue modeling**
 
-Simulated Data support for synthetic demand exploration
+---
 
-Evaluation Metrics: RMSE and R² Score for model assessment
+## 🖼️ Screenshots
 
-Interactive Dashboards for analysis and visualization
+| Forecasting Dashboard | Model Predictions | GRU Architecture | Convex Optimization |
+|------------------------|-------------------|------------------|---------------------|
+| ![Dashboard](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-21%20184248.png) | ![Predictions](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085230.png) | ![GRU](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085127.png) | ![Optimization](https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085127.png) |
 
-<p align="center"> <img src="https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085230.png" width="600"/> </p>
-📊 Demo Outputs
-Visualizations from the prediction pipeline and price optimization flow:
-
-<p align="center"> <img src="https://github.com/Vigneshpalan/Dynamic-pricing-using-Convex-optimization-GRU-Hybrid-models-/raw/main/Screenshot%202025-04-20%20085230.png" width="600"/> </p>
+---
